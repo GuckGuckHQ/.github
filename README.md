@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://guckguck.runasp.net/logo.png" alt="GuckGuck Logo" width="450px">
+  <img src="https://raw.githubusercontent.com/GuckGuckHQ/Assets/refs/heads/main/png/logo.png" alt="GuckGuck Logo" width="450px">
 </p>
 
 **GuckGuck** 👀 is your open-source sidekick for capturing periodic snapshots of your screen and viewing them online. Built with ❤️ using .NET and C#. Client apps are available for Windows (WPF) and macOS (.NET Mac). The web portal is built with ASP.NET Core and Razor.
@@ -39,5 +39,5 @@ Got questions? Feedback? We’d love to hear from you! Let us know how we can ma
 Enjoy your snapshots with with **GuckGuck**! 👀
 
 <p align="center">
-  <img src="https://guckguck.runasp.net/logo-icon.png" alt="GuckGuck Logo" height="50px">
+  <img src="https://raw.githubusercontent.com/GuckGuckHQ/Assets/refs/heads/main/png/logo-icon-transparent.png" alt="GuckGuck Logo" height="50px">
 </div>
