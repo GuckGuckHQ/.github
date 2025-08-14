@@ -7,7 +7,7 @@
 ---
 
 ## ⁉️ Why GuckGuck?
-Got a task you need to monitor over time - but don't want to sit in front of your screen the whole time? **GuckGuck** has got you covered! It can do periodic snapshots of your screen which you can view online - not more, not less.
+Got a task you need to monitor over time - but don't want to sit in front of your screen the whole time? **GuckGuck** has got you covered! It can do periodic snapshots of your screen which you can view online - not more, not less. Here is a [blog post](https://johnnys.news/2025/03/Vibe-Coding-GuckGuck-Building-a-Periodic-Screenshot-Tool) describing why I'm building GuckGuck
 
 ## ✨ Usage
 Set the region of your screen to capture, the interval between snapshots and **GuckGuck** will take care of the rest. You can view your screenshots online and download them as needed.
